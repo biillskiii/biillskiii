@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/0bd8e075085611.5cab290a85c48.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Nabiel Dwi Ananda</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A Passionate Frontend Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645607.jpg?t=st=1729723193~exp=1729726793~hmac=46d62e7cdd9dbed6e93fe5c795f4b95e6bf5f7d7da16f6b58b1c3208a18cc155&w=740"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biillskiii&label=Profile%20views&color=0e75b6&style=flat" alt="biillskiii" /> </p>
 
