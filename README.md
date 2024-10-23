@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vue, Laravel**
 
-- 👨‍💻 All of my projects are available at [nabiel-portofolio.vercel.app](nabiel-portofolio.vercel.app)
+- 👨‍💻 All of my projects are available at [nabiel-portofolio.vercel.app](https://nabiel-portofolio.vercel.app)
 
 - 💬 Ask me about **React, NextJS,**
 
